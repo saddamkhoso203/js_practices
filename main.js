@@ -60,15 +60,19 @@
 // console.log('  *    * ');
 // console.log(' *      * ');
 
-
-
 // console.log("practice");
 
-let username = "Saddam";
-username ='yasir';
-console.log(username);
 
-{
-    let username = "john";
-    console.log(username);
-}
+// let username = "Saddam";
+// username ='yasir';
+// console.log(username);
+
+let myname = 'Saddam Hussain';
+let father = 'Ghulam Akbar';
+// let Lastname = 'Khoso';
+let Fullname= 'Fullname'
+Fullname = 'My name is '+ myname + ' and my father name is ' +father ;
+
+  
+    console.log(Fullname);
+
