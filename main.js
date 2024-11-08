@@ -67,12 +67,31 @@
 // username ='yasir';
 // console.log(username);
 
+// String Data type
 let myname = 'Saddam Hussain';
-let father = 'Ghulam Akbar';
-// let Lastname = 'Khoso';
-let Fullname= 'Fullname'
-Fullname = 'My name is '+ myname + ' and my father name is ' +father ;
+// let father = 'Ghulam Akbar';
+// // let Lastname = 'Khoso';
+// let Fullname= 'Fullname'
+// Fullname = 'My name is '+ myname + ' and my father name is ' +father ;
 
   
-    console.log(Fullname);
+    console.log(myname);
+    console.log(myname.toLowerCase());
+    console.log(myname.toUpperCase());
+    console.log(myname.length);
+    console.log(myname[2]);
+    console.log(myname[6]);
 
+// number Data type
+
+let numberOne = 30;
+let numberTwo = 20;
+let sum = 0;
+sum = numberOne + numberTwo;
+console.log(sum);
+sum = numberOne - numberTwo;
+console.log(sum);
+sum = numberOne * numberTwo;
+console.log(sum);
+sum = numberOne / numberTwo;
+console.log(sum);
